@@ -1,1 +1,3 @@
-print("Fredrick has a big D***")
+Name_of_User = input("Insert your name ")
+
+print(Name_of_User)
